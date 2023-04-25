@@ -1,0 +1,14 @@
+  html {height: 100%; width: 100%}
+        body {
+        background-image: url(img/1659955872_42-kartinkin-net-p-fon-dlya-magazina-tekhniki-krasivo-49.jpg);
+        bacground-position: top center;
+            background-repeat: no-repeat;
+        }
+        div {
+            padding: 3.06%;
+            display: inline-block;
+        }
+        div {
+            vertical-align: top;
+            
+        }
